@@ -1,0 +1,3 @@
+{
+    "files": ["main.qml","components/jogbutton.qml","components/Jogbuttongrid.qml","main.py","Jogdials.qml","components/jogGrid.qml","components/numpad.qml","components/Jogdials.qml","components/Joint0dial.qml"]
+}
